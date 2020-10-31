@@ -1,0 +1,29 @@
+#box{
+    border: 2px solid black;
+    outline: solid 10px  rgb(4, 141, 50);
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+}
+
+#box2{
+    border: 1px solid black;
+    outline: solid 5px  rgb(4, 141, 50);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;  
+    padding: 20px;
+}
+
+.resize{
+    font-size: 14px;
+    text-align: center;
+    background-color: rgb(195, 218, 151);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+
+.colored{
+    color: #2c2c2c;
+    font-family: Arial, Helvetica, sans-serif;
+}
